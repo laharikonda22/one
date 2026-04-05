@@ -732,8 +732,8 @@
                 icon: 'fa-laptop'
             },
             {
-                id: 'clothing',
-                name: 'Clothing',
+                id: 'babyclothing',
+                name: 'babyclothing',
                 icon: 'fa-tshirt'
             },
             {
