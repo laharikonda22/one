@@ -727,8 +727,8 @@
                 icon: 'fa-mobile-alt'
             },
             {
-                id: 'Toys',
-                name: 'Toys',
+                id: 'yashnasworld',
+                name: 'yashnasworld',
                 icon: 'fa-laptop'
             },
             {
@@ -771,7 +771,7 @@
                 rating: 4,
                 reviews: 86,
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
-                category: 'Toys'
+                category: 'yashnasworld'
             },
             {
                 id: 3,
